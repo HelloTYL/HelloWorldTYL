@@ -15,6 +15,7 @@ Scene* HelloWorld::createScene()
 
     // return the scene
     return scene;
+    //123456
 }
 
 // on "init" you need to initialize your instance
